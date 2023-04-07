@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Apptitude99/static/css/main.3828b742.css",
+    "main.js": "/Apptitude99/static/js/main.584b328e.js",
+    "index.html": "/Apptitude99/index.html",
+    "main.3828b742.css.map": "/Apptitude99/static/css/main.3828b742.css.map",
+    "main.584b328e.js.map": "/Apptitude99/static/js/main.584b328e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3828b742.css",
+    "static/js/main.584b328e.js"
+  ]
+}
